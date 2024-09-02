@@ -5,3 +5,4 @@ console.log(num[3]);
 
 const second = num[2];
 console.log(second);
+variable
